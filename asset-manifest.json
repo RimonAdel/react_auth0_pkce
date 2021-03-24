@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_auth0_pkce/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react_auth0_pkce/static/js/main.13d2dee8.chunk.js",
+    "main.js.map": "/react_auth0_pkce/static/js/main.13d2dee8.chunk.js.map",
+    "runtime-main.js": "/react_auth0_pkce/static/js/runtime-main.5cf967bf.js",
+    "runtime-main.js.map": "/react_auth0_pkce/static/js/runtime-main.5cf967bf.js.map",
+    "static/js/2.5196c178.chunk.js": "/react_auth0_pkce/static/js/2.5196c178.chunk.js",
+    "static/js/2.5196c178.chunk.js.map": "/react_auth0_pkce/static/js/2.5196c178.chunk.js.map",
+    "static/js/3.6128ee58.chunk.js": "/react_auth0_pkce/static/js/3.6128ee58.chunk.js",
+    "static/js/3.6128ee58.chunk.js.map": "/react_auth0_pkce/static/js/3.6128ee58.chunk.js.map",
+    "index.html": "/react_auth0_pkce/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react_auth0_pkce/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5196c178.chunk.js.LICENSE.txt": "/react_auth0_pkce/static/js/2.5196c178.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react_auth0_pkce/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf967bf.js",
+    "static/js/2.5196c178.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.13d2dee8.chunk.js"
+  ]
+}
